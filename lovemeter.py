@@ -1,2 +1,4 @@
-ifimportpass
+import os
+print("haha")
+input("")
         
